@@ -1,5 +1,5 @@
 ### Hi there 👋
-I´m David Garcia, i´m from Buga.
+I´m David Garcia, i´m from Colombia.
 ```mermaid
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
