@@ -1,23 +1,15 @@
-### Hi there 👋
-I´m David Garcia, i´m from Colombia.
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
-<!--
-**Davidgarar/Davidgarar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+💻 Full Stack Developer from Colombia
 
-- 🔭 I’m currently studing system engineer
-- 🌱 I’m currently learning about Java...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- React
+- Cibersecurity
+- AWS
+
+🎯 Goals for 2025:
+- Alert Vial Tulua: HTML, JavaScript, CSS, Python
+- Party Finder: Kotlin, Android Studio, App
+- Vivaeventos: Microservices and Docker
+
+📫 Contact:
